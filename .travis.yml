@@ -13,8 +13,9 @@ script:
   - cd ../
   - cp -r TravisCIWithOF openFrameworks/apps/
 # clone Addons
+# ofxJoystick
   - git clone https://github.com/Lacty/ofxJoystick.git
-  - cp -r ofxJoystick
+  - cp -r ofxJoystick openFrameworks/addons/
 
   - cd openframeworks/apps/TravisCIWithOF/
   - make
