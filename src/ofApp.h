@@ -1,8 +1,10 @@
 #pragma once
 
 #include "ofMain.h"
+#include "ofxJoystick.h"
 
 class ofApp : public ofBaseApp{
+  ofxJoystick joy_;
 
 	public:
 		void setup();

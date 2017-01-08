@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "A5FA0A0F16ED7BFC9AE3632EDDE4454F7AD28A8C",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "BE41B3DE0FF0FF4F57B31528753B88E2762363AE" : 9223372036854775807,
+    "A5FA0A0F16ED7BFC9AE3632EDDE4454F7AD28A8C" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "409DB347-2574-4528-AF05-C75311DCCFB7",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "BE41B3DE0FF0FF4F57B31528753B88E2762363AE" : "..\/addons\/ofxJoystick",
+    "A5FA0A0F16ED7BFC9AE3632EDDE4454F7AD28A8C" : "TravisCIWithOF\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "TravisCIWithOF",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "TravisCIWithOF.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:Lacty\/TravisCIWithOF.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "A5FA0A0F16ED7BFC9AE3632EDDE4454F7AD28A8C"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Lacty\/ofxJoystick.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "BE41B3DE0FF0FF4F57B31528753B88E2762363AE"
+    }
+  ]
+}
