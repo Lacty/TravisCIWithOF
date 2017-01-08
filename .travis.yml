@@ -10,6 +10,6 @@ script:
   - cd openframeworks
   - git checkout ee79e8bb6723380d3b6b794e81192d4035c1097b
   - cd ../
-  - cp TravisCIWithOF openFrameworks/apps/
+  - cp -r TravisCIWithOF openFrameworks/apps/
   - cd openframeworks/apps/TravisCIWithOF/
   - make
